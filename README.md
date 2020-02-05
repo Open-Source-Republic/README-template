@@ -1,6 +1,7 @@
 <!--DO NOT REMOVE SIGNATURE-->
 
-![logoblack](https://user-images.githubusercontent.com/48270786/73873800-4fc7f000-4878-11ea-9fc7-c00bf9d66f83.png)
+![logoblack](https://user-images.githubusercontent.com/48270786/73874404-789cb500-4879-11ea-8858-74b0a587342f.png)
+
 # Project Title
 
 One line description of project goes here
