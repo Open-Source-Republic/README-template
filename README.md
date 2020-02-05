@@ -1,3 +1,6 @@
+<!--DO NOT REMOVE SIGNATURE-->
+
+![logoblack](https://user-images.githubusercontent.com/48270786/73873800-4fc7f000-4878-11ea-9fc7-c00bf9d66f83.png)
 # Project Title
 
 One line description of project goes here
@@ -78,3 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ### Use this template on every new project added under The Open Source Republic
+
+<!--DO NOT REMOVE SIGNATURE-->
+
+![text](https://user-images.githubusercontent.com/48270786/73873692-11cacc00-4878-11ea-90c0-dc0c351cd752.png)
