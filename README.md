@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <!--DO NOT REMOVE SIGNATURE-->
 
-![text](https://user-images.githubusercontent.com/48270786/73873692-11cacc00-4878-11ea-90c0-dc0c351cd752.png)
+![text](https://user-images.githubusercontent.com/48270786/73918369-8426c500-48e7-11ea-8ead-61d50896f6e9.png)
